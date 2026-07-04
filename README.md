@@ -35,20 +35,6 @@
 
 ---
 
-## 🌍 Socials
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@rokokolite-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828)](https://t.me/rokokolite)
-[![TG Channel](https://img.shields.io/badge/Channel-rokokoschannel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828)](https://t.me/rokokoschannel)
-[![YouTube](https://img.shields.io/badge/YouTube-@rokokolite-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828)](https://www.youtube.com/@rokokolite)
-[![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
-[![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 **🧮 Languages**
@@ -100,6 +86,7 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Vial](https://img.shields.io/badge/Vial-2D2D2D?style=for-the-badge&logoColor=white)
+[![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
 
 **🎨 Media / Creative**
 
@@ -108,6 +95,7 @@
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge&logoColor=white)
+[![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
 
 **🐧 Linux / Rice** &nbsp;·&nbsp; [**huix** (*≧m≦*)](https://github.com/rokokol/huix)
 
