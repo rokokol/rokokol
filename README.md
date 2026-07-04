@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FABD2F&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+rokokol+%F0%9F%91%8B;Engineer+%C2%B7+Tinkerer+%C2%B7+Data+%2F+ML;Python+%7C+C%2FC%2B%2B+%7C+Linux+%7C+3D+%7C+ESP32;Self-hosting+%26+local+AI+enthusiast" alt="typing header" />
-</a>
-
 <!-- ==================== MASCOT ==================== -->
 <img src="assets/mascot.png" width="120" alt="rokokol mascot" />
+
+<!-- ==================== HEADER ==================== -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FABD2F&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+rokokol+o%28%5E%E2%96%BD%5E%29o;Engineer+%C2%B7+Tinkerer+%C2%B7+Data+%2F+ML;Python+%7C+C%2FC%2B%2B+%7C+Linux+%7C+MATLAB;Self-hosting+%26+local+AI+enthusiast" alt="typing header" />
+</a>
 
 <br/>
 
 <!-- ==================== WEBSITE (highlighted) ==================== -->
-### 🌐 [**→ visit my website ←**](https://rokokol.github.io/)
+### 🌐 [**my website （´ω｀♡%）**](https://rokokol.github.io/)
 
-<a href="https://rokokol.github.io/">
-  <img src="https://img.shields.io/badge/rokokol.github.io-My%20Projects-fabd2f?style=for-the-badge&logo=githubpages&logoColor=282828&labelColor=282828" alt="website" />
+<a href="https://rokokol.art">
+  <img src="https://img.shields.io/badge/rokokol.art-My%20Projects-fabd2f?style=for-the-badge&logo=githubpages&logoColor=282828&labelColor=282828" alt="website" />
 </a>
 
 <br/><br/>
@@ -27,11 +27,11 @@
 
 ## 🧑‍💻 About me
 
-- 🔬 Engineer who lives between **Python/ML notebooks**, a **C/C++ toolchain** and a soldering iron.
-- 🖨️ I design and 3D-print things (FreeCAD → Bambu Studio) and build hardware on **Arduino / ESP32**.
-- 🐧 Full-time **Linux / Wayland** user, riced around **Hyprland**.
-- 🤖 Big on **self-hosting** and **local AI** (Ollama, Open WebUI, ComfyUI).
-- 🎬 On the side: video, photo, pixel art and 3D.
+- 🔬 Enthusiast who lives between **Python/ML**, **microcontrollers** and a soldering iron
+- 🖨️ I design and 3D-print things and build hardware on **Arduino / ESP32**
+- 🐧 Sigma **Linux / Wayland** user, riced around **Hyprland**
+- 🤖 Big on **self-hosting** and **local AI** (Ollama, Open WebUI, ComfyUI)
+- 🎬 On the side: video, photo, pixel art and 3D
 
 ---
 
@@ -81,6 +81,15 @@
 ![Open WebUI](https://img.shields.io/badge/Open%20WebUI-1A73E8?style=for-the-badge&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge&logoColor=white)
 
+**🧰 Dev / Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 **🖨️ 3D · CAD · Electronics**
 
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=freecad&logoColor=white)
@@ -97,12 +106,10 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527BAF?style=for-the-badge&logo=kdenlive&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge&logoColor=white)
 
-**🐧 Linux / Rice** &nbsp;·&nbsp; [![huix dotfiles](https://img.shields.io/badge/⚙️_dotfiles-rokokol%2Fhuix-fabd2f?style=for-the-badge&logo=nixos&logoColor=282828&labelColor=282828)](https://github.com/rokokol/huix)
+**🐧 Linux / Rice** &nbsp;·&nbsp; [**huix** (*≧m≦*)](https://github.com/rokokol/huix)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
@@ -130,15 +137,6 @@
 ![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white)
 ![LibreTranslate](https://img.shields.io/badge/LibreTranslate-1A1A1A?style=for-the-badge&logoColor=white)
 
-**🧰 Dev / Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 **🗂️ Productivity**
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
@@ -150,44 +148,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rokokol&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true&title_color=fabd2f&icon_color=fe8019" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokokol&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&title_color=fabd2f" alt="top languages" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=rokokol&theme=gruvbox&hide_border=true&ring=fe8019&fire=fb4934&currStreakLabel=fabd2f" alt="streak" />
 
 </div>
 
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rokokol&bg_color=282828&color=ebdbb2&line=fe8019&point=fabd2f&area=true&area_color=d79921&hide_border=true" alt="activity graph" />
-
-</div>
-
-<!-- ==================== SNAKE ==================== -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rokokol/rokokol/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rokokol&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
-<div align="center">
-
-<sub>🦞 built with badges, made in gruvbox</sub>
-
-</div>
