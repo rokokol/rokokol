@@ -94,6 +94,7 @@
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527BAF?style=for-the-badge&logo=kdenlive&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![imagemagick](https://img.shields.io/badge/imagemagick-DD0031?style=for-the-badge&logo=imagemagick&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge&logoColor=white)
 [![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
 
