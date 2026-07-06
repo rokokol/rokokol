@@ -22,12 +22,6 @@
 [![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rokokol&style=for-the-badge&color=d79921&label=PROFILE+VIEWS" alt="profile views" />
-
-</div>
-
 ---
 
 ## 🧑‍💻 About me
@@ -45,10 +39,8 @@
 **🧮 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
+![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB/Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GLSL / OpenGL](https://img.shields.io/badge/GLSL%2FOpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -61,8 +53,7 @@
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-4C8CBF?style=for-the-badge&logoColor=white)
+![Matplotlib/seaborn](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![librosa](https://img.shields.io/badge/librosa-4B0082?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -89,7 +80,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Vial](https://img.shields.io/badge/Vial-2D2D2D?style=for-the-badge&logoColor=white)
 
 **🎨 Media / Creative**
@@ -133,3 +123,10 @@
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Super Productivity](https://img.shields.io/badge/Super%20Productivity-2C2C2C?style=for-the-badge&logoColor=white)
+
+---
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rokokol&style=for-the-badge&color=d79921&label=PROFILE+VIEWS" alt="profile views" />
+
+</div>
