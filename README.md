@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/rokokol.art-My%20Projects-fabd2f?style=for-the-badge&logo=githubpages&logoColor=282828&labelColor=282828" alt="website" />
 </a>
 
+[![TG Channel](https://img.shields.io/badge/Channel-rokokoschannel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828)](https://t.me/rokokoschannel)
+[![YouTube](https://img.shields.io/badge/YouTube-@rokokolite-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828)](https://www.youtube.com/@rokokolite)
+[![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
+[![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rokokol&style=for-the-badge&color=d79921&label=PROFILE+VIEWS" alt="profile views" />
@@ -86,7 +91,6 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Vial](https://img.shields.io/badge/Vial-2D2D2D?style=for-the-badge&logoColor=white)
-[![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
 
 **🎨 Media / Creative**
 
@@ -96,7 +100,6 @@
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![imagemagick](https://img.shields.io/badge/imagemagick-DD0031?style=for-the-badge&logo=imagemagick&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge&logoColor=white)
-[![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
 
 **🐧 Linux / Rice** &nbsp;·&nbsp; [**huix** (*≧m≦*)](https://github.com/rokokol/huix)
 
@@ -130,16 +133,3 @@
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Super Productivity](https://img.shields.io/badge/Super%20Productivity-2C2C2C?style=for-the-badge&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rokokol&theme=gruvbox&hide_border=true&ring=fe8019&fire=fb4934&currStreakLabel=fabd2f" alt="streak" />
-
-</div>
-
