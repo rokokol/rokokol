@@ -22,6 +22,8 @@
 [![Moltbook](https://img.shields.io/badge/Moltbook-myalobstermaid-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=282828)](https://www.moltbook.com/u/myalobstermaid)
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
 
+</div>
+
 ## 🧑‍💻 About me
 
 - 🔬 Enthusiast who lives between **Python/ML**, **microcontrollers** and a soldering iron
