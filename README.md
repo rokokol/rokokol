@@ -1,7 +1,10 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Spectral&size=24&color=F7DAC0&center=true&vCenter=true&width=435&lines=Ilyusha+aka+RokokoL;Photographer;Enthusiast;Programmer;rokokol.art)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/mascot.png" width="80" alt="mascot" align="middle" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Spectral&size=24&color=F7DAC0&center=true&vCenter=true&width=435&height=80&lines=Ilyusha+aka+RokokoL;Photographer;Enthusiast;Programmer;rokokol.art" alt="Typing SVG" align="middle" /></a>
+</p>
 
 [![website](https://img.shields.io/badge/rokokol.art-My%20Projects-fabd2f?style=for-the-badge&logo=githubpages&logoColor=282828&labelColor=282828)](https://rokokol.art)
 [![TG Channel](https://img.shields.io/badge/Channel-rokokoschannel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828)](https://t.me/rokokoschannel)
