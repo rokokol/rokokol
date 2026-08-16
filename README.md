@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="assets/mascot.png" width="80" alt="mascot" align="middle" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Spectral&size=24&color=F7DAC0&center=true&vCenter=true&width=435&height=80&lines=Ilyusha+aka+RokokoL;Photographer;Enthusiast;Programmer;rokokol.art" alt="Typing SVG" align="middle" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Spectral&size=24&color=F7DAC0&center=true&vCenter=true&width=300&lines=Ilyusha+aka+RokokoL;Photographer;Enthusiast;Programmer;rokokol.art" alt="Typing SVG" /></a>
 </p>
 
 [![website](https://img.shields.io/badge/rokokol.art-My%20Projects-fabd2f?style=for-the-badge&logo=githubpages&logoColor=282828&labelColor=282828)](https://rokokol.art)
