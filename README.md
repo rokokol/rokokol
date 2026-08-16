@@ -17,7 +17,7 @@
 - 🔬 Enthusiast who lives between **IT** and a **soldering iron**
 - 🖨️ I design and 3D-print things and build hardware on **Arduino / ESP32**
 - 🐧 Sigma **Linux / Wayland** user, riced around **Hyprland**
-- 🤖 Big on **self-hosting** and **local AI** (Ollama, Open WebUI, ComfyUI, Headscale, Dovecot+Postfix)
+- 🤖 Big on **self-hosting** and **local AI** (Ollama, ComfyUI, Headscale, Dovecot+Postfix)
 - 🎬 On the side: video, photo, pixel art and 3D
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
