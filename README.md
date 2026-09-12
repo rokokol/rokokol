@@ -21,10 +21,10 @@
 - 🎬 On the side: video, photo, pixel art and 3D
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB / Octave](https://img.shields.io/badge/MATLAB%20%2F%20Octave-0790C0?style=flat-square&logo=octave&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 [![Agent Skill](https://img.shields.io/badge/Agent_Skill-6E56CF?style=flat-square)](https://agentskills.io)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
