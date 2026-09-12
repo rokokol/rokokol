@@ -25,6 +25,8 @@
 ![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB / Octave](https://img.shields.io/badge/MATLAB%20%2F%20Octave-0790C0?style=flat-square&logo=octave&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+[![Agent Skill](https://img.shields.io/badge/Agent_Skill-6E56CF?style=flat-square)](https://agentskills.io)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A1A?style=flat-square&logoColor=white)
 ![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white)
