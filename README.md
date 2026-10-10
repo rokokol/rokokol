@@ -7,6 +7,7 @@
 </p>
 
 [![website](https://img.shields.io/badge/rokokol.art-My%20Projects-fabd2f?style=for-the-badge&logo=githubpages&logoColor=282828&labelColor=282828)](https://rokokol.art)
+[![FlakeHub](https://img.shields.io/badge/FlakeHub-rokokol-0d4d9c?style=for-the-badge&labelColor=282828)](https://flakehub.com/org/rokokol)
 [![TG Channel](https://img.shields.io/badge/Channel-rokokoschannel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828)](https://t.me/rokokoschannel)
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-@rokokol-000000?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=282828)](https://makerworld.com/en/@rokokol)
 
