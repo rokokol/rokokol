@@ -22,7 +22,7 @@
 - 🎬 On the side: video, photo, pixel art and 3D
 
 <p align="center">
-  <a href="https://github.com/rokokol"><img src="https://count.owenewans.org/rokokol?theme=rule34" alt="Commit count of rokokol" height="150" /></a>
+  <a href="https://github.com/rokokol"><img src="https://count.owenewans.org/rokokol?theme=original-new" alt="Commit count of rokokol" height="150" /></a>
 </p>
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
