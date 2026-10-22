@@ -52,5 +52,9 @@
 ![Vial](https://img.shields.io/badge/Vial-2D2D2D?style=for-the-badge&logoColor=white)-->
 
 <p align="center">
+  <a href="https://github.com/rokokol"><img src="https://count.owenewans.org/rokokol?theme=rule34" alt="Commit count of rokokol" height="150" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rokokol&style=for-the-badge&color=d79921&label=PROFILE+VIEWS" alt="profile views" />
 </p>
