@@ -21,6 +21,10 @@
 - 🤖 Big on **self-hosting** and **local AI** (Ollama, ComfyUI, Headscale, Dovecot+Postfix)
 - 🎬 On the side: video, photo, pixel art and 3D
 
+<p align="center">
+  <a href="https://github.com/rokokol"><img src="https://count.owenewans.org/rokokol?theme=rule34" alt="Commit count of rokokol" height="150" /></a>
+</p>
+
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -50,10 +54,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![Vial](https://img.shields.io/badge/Vial-2D2D2D?style=for-the-badge&logoColor=white)-->
-
-<p align="center">
-  <a href="https://github.com/rokokol"><img src="https://count.owenewans.org/rokokol?theme=rule34" alt="Commit count of rokokol" height="150" /></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rokokol&style=for-the-badge&color=d79921&label=PROFILE+VIEWS" alt="profile views" />
